@@ -4,7 +4,8 @@
 
 1. `git clone https://github.com/sander-ali/SAKSRNet.git`
 2. Run the code using the following command
-    ```python test.py --test_dir testset --model_id 21
+    ```
+    python test.py --test_dir testset --model_id 21
     ```
 
 ### Weighted score for Perception Quality Track
